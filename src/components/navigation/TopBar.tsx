@@ -1,0 +1,1 @@
+export function TopBar(){return <header className="app-topbar"><div className="brand"><span aria-hidden="true">🎓</span><span>גאיה לומדת<small>לגלות. להבין. להצליח.</small></span></div><span className="pill">כיתה ד׳</span></header>}
